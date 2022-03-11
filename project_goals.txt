@@ -1,5 +1,5 @@
-<h1> Team 1 Restaurant Helper Bot </h1> 
-<h3>Harry and Ben</h3>
+Team 1 Restaurant Helper Bot 
+Harry and Ben
 
 On demo day, our project at the very least will be able to take input from the user, either typed in commands (MVP) or voice commands (best-case scenario), (e.g. get me a slice of pepperoni pizza), then the robot will know where to get the pizza and return to that spot. The robot will use fiducials to localize itself within the map, and use some combination of lidar and the map to plan its path. We found a data set of pizza and beverage orders that we will use to train our natural language understanding model. We plan to also use fiducials to represent different pizza types as well and designate an area on the map where the food and beverages will be. The robot will know to go to that general area and use the appropriate fiducial to get the right pizza. If possible, we want to attach a tray to the robot. In addition to this, we may attempt to have multiple robots that can take commands.
 
